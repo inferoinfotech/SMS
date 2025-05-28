@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import imagesIcons from "../../../Images";
 import ViewOwner from "../../../components/viewOwner/ViewOwner";
-import ViewTenant from "../../../components/ViewTenant/ViewTenant";
+import ViewTenant from "../../../components/viewTenant/ViewTenant";
 import { getResidentById } from '../../../api/residentApi';
 
 function ResidentTableRow({
