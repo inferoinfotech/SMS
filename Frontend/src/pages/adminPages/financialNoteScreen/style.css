@@ -1,0 +1,37 @@
+.financialNote .text-wrapper-184 {
+  color: #202224;
+  font-family: var(--h4-semi-bold-font-family);
+  font-size: var(--h4-semi-bold-font-size);
+  font-style: var(--h4-semi-bold-font-style);
+  font-weight: var(--h4-semi-bold-font-weight);
+  letter-spacing: var(--h4-semi-bold-letter-spacing);
+  line-height: var(--h4-semi-bold-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.financialNote .financial-note-card {
+  width: 370px;
+}
+
+.financialNote .customButton {
+  margin: 0 !important;
+}
+
+@media screen and (max-width: 425px) {
+  .financialNote .financial-note-card {
+    width: 340px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .financialNote .financial-note-card {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .financialNote .financial-note-card {
+    width: 250px;
+  }
+} 

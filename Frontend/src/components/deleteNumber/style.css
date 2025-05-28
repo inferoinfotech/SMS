@@ -1,0 +1,92 @@
+.frame-427 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 15px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.frame-428 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-424 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #F4F4F4;
+}
+
+.line-85 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 370px;
+}
+
+.text-wrapper-256 {
+  color: #a7a7a7;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-429 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.component-97 {
+  align-self: stretch !important;
+  display: flex !important;
+  padding: 10px 55px !important;
+  width: 175px !important;
+}
+
+.component-98 {
+  font-family: var(--h6-medium-font-family) !important;
+  font-size: var(--h6-medium-font-size) !important;
+  font-style: var(--h6-medium-font-style) !important;
+  font-weight: var(--h6-medium-font-weight) !important;
+  letter-spacing: var(--h6-medium-letter-spacing) !important;
+  line-height: var(--h6-medium-line-height) !important;
+  margin-top: unset !important;
+}
+
+.component-99 {
+  align-self: stretch !important;
+  background: unset !important;
+  background-color: var(--red) !important;
+  display: flex !important;
+  padding: 12px 53px !important;
+  width: 175px !important;
+}
+
+.line-86 {
+  height: 1px;
+  left: -57060px;
+  object-fit: cover;
+  position: absolute;
+  top: -13652px;
+  width: 62px;
+}

@@ -1,0 +1,44 @@
+.searchBox {
+  align-items: flex-start;
+  background-color: var(--gray-5);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 12px 15px;
+  position: relative;
+  width: 320px;
+}
+
+.searchBox .div-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.searchBox .vuesax-bold-search {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.searchBox .text-wrapper-7 {
+  color: #000;
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  border: none;
+  background-color: transparent;
+}

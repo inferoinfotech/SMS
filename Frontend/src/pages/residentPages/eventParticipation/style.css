@@ -1,0 +1,21 @@
+.service_com_management .services-card {
+  width: 370px;
+}
+
+@media screen and (max-width: 425px) {
+  .service_com_management .services-card {
+    width: 340px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .service_com_management .services-card {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .service_com_management .services-card {
+    width: 250px;
+  }
+}

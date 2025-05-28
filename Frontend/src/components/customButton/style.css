@@ -1,0 +1,24 @@
+.customButton {
+  background: linear-gradient(
+    90deg,
+    rgb(254, 81, 46) 0%,
+    rgb(240, 150, 25) 100%
+    );
+    border-radius: 12px;
+    position: relative;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  .button {
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: var(--h5-semi-bold-font-family);
+    font-size: var(--h5-semi-bold-font-size);
+    font-style: var(--h5-semi-bold-font-style);
+    font-weight: var(--h5-semi-bold-font-weight);
+    letter-spacing: var(--h5-semi-bold-letter-spacing);
+    line-height: var(--h5-semi-bold-line-height);
+  }

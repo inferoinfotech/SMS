@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Society Management System</title>
+  
+  <style>
+    @import url("https://fonts.googleapis.com/css?family=Poppins:var(--h8-medium-font-weight),var(--h6-semi-bold-font-weight),600,var(--h9-semi-bold-font-weight),var(--h7-font-weight),var(--h2-semi-bold-font-weight),var(--h4-regular-font-weight),var(--h6-regular-font-weight),400,var(--h5-font-weight),var(--h8-regular-font-weight),var(--h4-semi-bold-font-weight),var(--h7-regular-font-weight),var(--h10-regular-font-weight),var(--h6-font-weight),var(--p16-semi-bold-font-weight),var(--h5-regular-font-weight),var(--h6-medium-font-weight),var(--h10-medium-font-weight),var(--h8-semi-bold-font-weight),var(--h5-medium-font-weight),var(--h7-medium-font-weight),var(--h3-font-weight),500,var(--h7-semi-bold-font-weight),var(--h5-semi-bold-font-weight),var(--p16-regular-font-weight)|Nunito+Sans:var(--semibold-14-font-weight),800,var(--bold-14-font-weight),600,var(--semibold-16-font-weight),var(--regular-16-font-weight)|Lato:var(--h7-ragular-font-weight)|Inter:var(--text-sm-leading-none-font-normal-font-weight),var(--text-sm-leading-5-font-medium-font-weight),var(--text-xl-leading-none-font-normal-font-weight),var(--text-lg-leading-none-font-normal-font-weight),var(--text-base-leading-none-font-normal-font-weight),var(--text-2xl-leading-none-font-normal-font-weight),var(--text-xs-leading-none-font-normal-font-weight)");
+  </style>
+  <style>
+    @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+    * {
+      -webkit-font-smoothing: antialiased;
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0px;
+      height: 100%;
+      scrollbar-width: none;
+    }
+
+    button:focus-visible {
+      outline: 2px solid #4a90e2 !important;
+      outline: -webkit-focus-ring-color auto 5px !important;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .border {
+      box-sizing: border-box;
+      border: border-box;
+    }
+
+    .custom-input {
+      border: 1px solid black;
+      width: 100%;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    input[type="checkbox"] {
+      width: 20px !important;
+      height: 20px !important;
+      border-radius: 5px !important;
+      background: white !important;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      outline: none;
+      cursor: pointer;
+      border: 1px solid orange;
+    }
+
+    input[type="checkbox"]:checked {
+      background: linear-gradient(180deg, rgb(254, 81, 46) 0%, rgb(240, 150, 25) 100%) !important;
+    }
+
+    input[type="checkbox"]:checked::before {
+      content: '\2713';
+      display: block;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      line-height: 20px;
+      color: white;
+      font-size: 14px;
+    }
+
+    input[type="radio"] {
+      width: 20px !important;
+      height: 20px !important;
+      border-radius: 30px !important;
+      background: white !important;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      outline: none;
+      cursor: pointer;
+      border: 1px solid orange;
+      margin-right: 20px;
+    }
+
+    input[type="radio"]:checked {
+      background: linear-gradient(180deg, rgb(254, 81, 46) 0%, rgb(240, 150, 25) 100%) !important;
+    }
+
+    input[type="radio"]:checked::before {
+      content: '◯';
+      margin-top: -2px;
+      display: block;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      line-height: 20px;
+      color: white;
+      font-size: 14px;
+    }
+
+    @media screen and (max-width: 375px) {
+      input[type="radio"] {
+      margin-right: 10px;
+    }
+    }
+  </style>
+  <link href="styleguide.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+</body>
+
+</html>

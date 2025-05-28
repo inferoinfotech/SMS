@@ -1,0 +1,47 @@
+.statusButton {
+  align-items: center;
+  border-radius: 58px;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  padding: 5px 12px;
+  position: relative;
+  width: 113px;
+}
+
+.statusButton .open {
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.statusButton.open-true {
+  background-color: #5677e81a;
+}
+
+.statusButton.open-false.pending-true {
+  background-color: #ffc3131a;
+}
+
+.statusButton.pending-false.open-false.solved-true {
+  background-color: #39963d1a;
+}
+
+.statusButton.open-true .open {
+  color: var(--link);
+}
+
+.statusButton.open-false.pending-true .open {
+  color: var(--alert);
+}
+
+.statusButton.pending-false.open-false.solved-true .open {
+  color: var(--green);
+}

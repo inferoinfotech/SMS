@@ -1,0 +1,35 @@
+.priority-status {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 5px 12px;
+  position: relative;
+  width: 100px;
+}
+
+.priority-status .medium {
+  color: #ffffff;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.priority-status.medium-true {
+  background-color: var(--link);
+}
+
+.priority-status.medium-false.low-true {
+  background-color: var(--green);
+}
+
+.priority-status.medium-false.low-false.high-true {
+  background-color: var(--red);
+}

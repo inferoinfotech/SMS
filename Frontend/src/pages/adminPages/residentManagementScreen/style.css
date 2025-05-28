@@ -1,0 +1,17 @@
+.frame-682 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-wrapper-433 {
+  color: var(--black);
+  font-family: var(--h4-semi-bold-font-family);
+  font-size: var(--h4-semi-bold-font-size);
+  font-style: var(--h4-semi-bold-font-style);
+  font-weight: var(--h4-semi-bold-font-weight);
+  letter-spacing: var(--h4-semi-bold-letter-spacing);
+  line-height: var(--h4-semi-bold-line-height);
+  position: relative;
+  width: fit-content;
+}

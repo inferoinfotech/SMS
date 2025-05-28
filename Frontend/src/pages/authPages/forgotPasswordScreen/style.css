@@ -1,0 +1,289 @@
+.element-forget-paassword {
+  background-color: #ffffff;
+  height: 1064px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.element-forget-paassword .overlap-group-40 {
+  height: 1064px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.element-forget-paassword .group-545 {
+  height: 1064px;
+  left: 533px;
+  position: absolute;
+  top: 0;
+  width: 1387px;
+}
+
+.element-forget-paassword .rectangle-49 {
+  background-color: var(--gray-5);
+  height: 1064px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 960px;
+}
+
+.element-forget-paassword .bright-web-24 {
+  height: 36px;
+  left: 64px;
+  position: absolute;
+  top: 74px;
+  width: 250px;
+}
+
+.element-forget-paassword .element-7 {
+  height: 594px;
+  left: 196px;
+  position: absolute;
+  top: 221px;
+  width: 594px;
+}
+
+.element-forget-paassword .group-546 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--gray-4);
+  border-radius: 15px;
+  box-shadow: 0px 0px 25px #00000008;
+  height: 410px;
+  left: 1125px;
+  position: absolute;
+  top: 327px;
+  width: 630px;
+}
+
+.element-forget-paassword .frame-669 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 49px;
+  position: relative;
+  top: 49px;
+}
+
+.element-forget-paassword .frame-670 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.element-forget-paassword .frame-671 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.element-forget-paassword .text-wrapper-426 {
+  color: #202224;
+  font-family: var(--h2-semi-bold-font-family);
+  font-size: var(--h2-semi-bold-font-size);
+  font-style: var(--h2-semi-bold-font-style);
+  font-weight: var(--h2-semi-bold-font-weight);
+  letter-spacing: var(--h2-semi-bold-letter-spacing);
+  line-height: var(--h2-semi-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-forget-paassword .text-wrapper-427 {
+  color: var(--grey-1);
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+  position: relative;
+  width: fit-content;
+}
+
+.element-forget-paassword .input-field-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 530px;
+}
+
+.element-forget-paassword .label-24 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.element-forget-paassword .text-wrapper-428 {
+  color: #202224;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+}
+
+.element-forget-paassword .text-wrapper-429 {
+  color: #e74c3c;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+}
+
+.element-forget-paassword .component-200 {
+  align-self: stretch !important;
+  display: flex !important;
+  height: 65px !important;
+  width: 100% !important;
+}
+
+.element-forget-paassword .component-201 {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  width: 100% !important;
+}
+
+.element-forget-paassword .component-202 {
+  color: #202224 !important;
+}
+
+.element-forget-paassword .frame-672 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.element-forget-paassword .component-203 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 530px !important;
+}
+
+.element-forget-paassword .text-wrapper-430 {
+  color: #e74c3c;
+  display: block;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 530px;
+}
+
+.element-forget-paassword .line-134 {
+  height: 1px;
+  left: -63820px;
+  object-fit: cover;
+  position: absolute;
+  top: -11988px;
+  width: 62px;
+}
+
+.element-forget-paassword .select-menu-trigger-9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--gray-3);
+  border-radius: 10px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4px;
+  /* overflow: hidden; */
+  padding: 9px 13px;
+  position: relative;
+  width: 100%;
+}
+
+.forgot-btn {
+  background: linear-gradient(#fe512e 0%, #f09619 100%);
+  flex: none !important;
+  width: 530px !important;
+  display: flex !important;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  display: inline-flex;
+  position: relative;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+  .element-forget-paassword .rectangle-49,
+  .element-forget-paassword .element-7,
+  .element-forget-paassword .group-545 {
+    display: none;
+  }
+
+  .element-forget-paassword {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  .element-forget-paassword .group-546 {
+    left: 55px;
+    top: 165px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .element-forget-paassword .group-546 {
+    left: 25px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .element-forget-paassword .group-546 {
+    left: 0px;
+  }
+
+  .element-forget-paassword .input-field-37 {
+    width: 430px;
+  }
+
+  .forgot-btn {
+    width: 430px !important;
+  }
+
+  .element-forget-paassword .text-wrapper-430 {
+    width: 420px;
+  }
+}

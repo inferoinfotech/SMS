@@ -1,0 +1,5 @@
+@media screen and (max-width: 375px) {
+    .man-card-spece {
+        height: 325px !important;
+    }
+}

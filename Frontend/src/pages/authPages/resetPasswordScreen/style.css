@@ -1,0 +1,279 @@
+.element-reset-password-screen {
+  background-color: #ffffff;
+  height: 1064px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.element-reset-password-screen .overlap-group-15 {
+  height: 1064px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.element-reset-password-screen .group-157 {
+  height: 1064px;
+  left: 533px;
+  position: absolute;
+  top: 0;
+  width: 1387px;
+}
+
+.element-reset-password-screen .rectangle-11 {
+  background-color: var(--gray-5);
+  height: 1064px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 960px;
+}
+
+.element-reset-password-screen .bright-web-6 {
+  height: 36px;
+  left: 64px;
+  position: absolute;
+  top: 74px;
+  width: 250px;
+}
+
+.element-reset-password-screen .element-4 {
+  height: 594px;
+  left: 196px;
+  position: absolute;
+  top: 221px;
+  width: 594px;
+}
+
+.element-reset-password-screen .group-158 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--gray-4);
+  border-radius: 15px;
+  box-shadow: 0px 0px 25px #00000008;
+  height: 501px;
+  left: 1125px;
+  position: absolute;
+  top: 327px;
+  width: 630px;
+}
+
+.element-reset-password-screen .frame-210 {
+  align-items: flex-start;
+  border-radius: 15px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 49px;
+  position: relative;
+  top: 82px;
+}
+
+.element-reset-password-screen .text-wrapper-130 {
+  color: var(--black);
+  font-family: var(--h2-semi-bold-font-family);
+  font-size: var(--h2-semi-bold-font-size);
+  font-style: var(--h2-semi-bold-font-style);
+  font-weight: var(--h2-semi-bold-font-weight);
+  letter-spacing: var(--h2-semi-bold-letter-spacing);
+  line-height: var(--h2-semi-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-reset-password-screen .frame-211 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.element-reset-password-screen .frame-212 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 35px;
+  position: relative;
+}
+
+.element-reset-password-screen .input-field-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  /* height: 96px; */
+  position: relative;
+  width: 530px;
+}
+
+.element-reset-password-screen .label-6 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.element-reset-password-screen .text-wrapper-131 {
+  color: #202224;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+}
+
+.element-reset-password-screen .text-wrapper-132 {
+  color: #e74c3c;
+  font-family: var(--h7-medium-font-family);
+  font-size: var(--h7-medium-font-size);
+  font-style: var(--h7-medium-font-style);
+  font-weight: var(--h7-medium-font-weight);
+  letter-spacing: var(--h7-medium-letter-spacing);
+  line-height: var(--h7-medium-line-height);
+}
+
+.element-reset-password-screen .component-42 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 68px;
+  position: relative;
+  width: 100%;
+}
+
+.element-reset-password-screen .select-menu-trigger-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--gray-3);
+  border-radius: 10px;
+  display: flex;
+  gap: 4px;
+  overflow: hidden;
+  padding: 9px 13px;
+  position: relative;
+  width: 100%;
+}
+
+.element-reset-password-screen .input {
+  background-color: transparent;
+  border: 0;
+  color: #a7a7a7;
+  flex: 1;
+  flex-grow: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: relative;
+}
+
+.element-reset-password-screen .vuesax-bold-eye-slash-3 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.element-reset-password-screen .text-wrapper-133 {
+  color: var(--red);
+  font-family: var(--h8-regular-font-family);
+  font-size: var(--h8-regular-font-size);
+  font-style: var(--h8-regular-font-style);
+  font-weight: var(--h8-regular-font-weight);
+  letter-spacing: var(--h8-regular-letter-spacing);
+  line-height: var(--h8-regular-line-height);
+  position: relative;
+  width: 320px;
+}
+
+.element-reset-password-screen .component-43 {
+  background: unset !important;
+  background-color: #f6f8fb !important;
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 530px !important;
+}
+
+.element-reset-password-screen .component-44 {
+  color: #a7a7a7 !important;
+}
+
+.element-reset-password-screen .line-41 {
+  height: 1px;
+  left: -71900px;
+  object-fit: cover;
+  position: absolute;
+  top: -11988px;
+  width: 62px;
+}
+
+.reset-btn {
+  background: linear-gradient(#fe512e 0%, #f09619 100%);
+  flex: none !important;
+  width: 530px !important;
+  display: flex !important;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  display: inline-flex;
+  position: relative;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+  .element-reset-password-screen {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  .element-reset-password-screen .overlap-group-15 {
+    width: auto;
+  }
+
+  .element-reset-password-screen .rectangle-11, .element-reset-password-screen .element-4, .element-reset-password-screen .group-157 {
+    display: none;
+  }
+
+  .element-reset-password-screen .group-158 {
+    left: 55px;
+    top: 165px;
+  }
+
+  .element-reset-password-screen .bright-web-6 {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .element-reset-password-screen .group-158 {
+      left: 0px;
+      top: 165px;
+  }
+
+  .reset-btn {
+    width: 100% !important;
+  }
+}

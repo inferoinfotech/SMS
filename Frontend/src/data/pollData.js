@@ -1,0 +1,58 @@
+export const pollData = [
+	{
+		id: 1,
+		author: "John Doe",
+		question: "What is your favorite programming language?",
+		type: "Technology",
+		date: "2024-11-25",
+		totalVotes: 150,
+		options: [
+			{ label: "JavaScript", votes: 70 },
+			{ label: "Python", votes: 50 },
+			{ label: "Java", votes: 20 },
+			{ label: "C#", votes: 10 },
+		],
+	},
+	{
+		id: 2,
+		author: "Jane Smith",
+		question: "Which is your favorite season?",
+		type: "Lifestyle",
+		date: "2024-11-24",
+		totalVotes: 100,
+		options: [
+			{ label: "Spring", votes: 30 },
+			{ label: "Summer", votes: 25 },
+			{ label: "Fall", votes: 35 },
+			{ label: "Winter", votes: 10 },
+		],
+	},
+	{
+		id: 3,
+		author: "Michael Brown",
+		question: "What is your preferred mode of transport?",
+		type: "Travel",
+		date: "2024-11-23",
+		totalVotes: 200,
+		options: [
+			{ label: "Car", votes: 90 },
+			{ label: "Bike", votes: 50 },
+			{ label: "Public Transport", votes: 40 },
+			{ label: "Walking", votes: 20 },
+		],
+	},
+	{
+		id: 4,
+		author: "Sarah Wilson",
+		question: "Which sport do you enjoy watching the most?",
+		type: "Sports",
+		date: "2024-11-22",
+		totalVotes: 180,
+		options: [
+			{ label: "Football", votes: 100 },
+			{ label: "Basketball", votes: 50 },
+			{ label: "Tennis", votes: 20 },
+			{ label: "Cricket", votes: 10 },
+		],
+	},
+];

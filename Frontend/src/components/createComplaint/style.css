@@ -1,0 +1,869 @@
+.element-create-complaint {
+    overflow: hidden;
+}
+
+.element-create-complaint .line-156 {
+    height: 1px;
+    left: -46973px;
+    object-fit: cover;
+    position: absolute;
+    top: -26186px;
+    width: 62px;
+}
+
+.element-create-complaint .overlap-73 {
+    height: 1064px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.element-create-complaint .group-513 {
+    background-color: var(--white);
+    border-color: var(--gray-5);
+    border-right-style: solid;
+    border-right-width: 1px;
+    height: 1064px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 280px;
+}
+
+.element-create-complaint .frame-861 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 15px;
+    left: 33px;
+    position: absolute;
+    top: 953px;
+}
+
+.element-create-complaint .frame-862 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    opacity: 0;
+    position: relative;
+}
+
+.element-create-complaint .text-wrapper-276 {
+    color: var(--gray-2);
+    font-family: var(--h6-regular-font-family);
+    font-size: var(--h6-regular-font-size);
+    font-style: var(--h6-regular-font-style);
+    font-weight: var(--h6-regular-font-weight);
+    letter-spacing: var(--h6-regular-letter-spacing);
+    line-height: var(--h6-regular-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .line-157 {
+    height: 1px;
+    object-fit: cover;
+    position: relative;
+    width: 212px;
+}
+
+.element-create-complaint .frame-863 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.element-create-complaint .icon-instance-node-103 {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+}
+
+.element-create-complaint .text-wrapper-277 {
+    color: var(--red);
+    font-family: var(--h6-regular-font-family);
+    font-size: var(--h6-regular-font-size);
+    font-style: var(--h6-regular-font-style);
+    font-weight: var(--h6-regular-font-weight);
+    letter-spacing: var(--h6-regular-letter-spacing);
+    line-height: var(--h6-regular-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .group-514 {
+    height: 670px;
+    left: -1px;
+    position: absolute;
+    top: 27px;
+    width: 265px;
+}
+
+.element-create-complaint .frame-864 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 28px;
+    height: 72px;
+    left: 32px;
+    position: absolute;
+    top: 0;
+}
+
+.element-create-complaint .logo-35 {
+    height: 43px;
+    position: relative;
+    width: 159px;
+}
+
+.element-create-complaint .bright-web-37 {
+    height: 23px;
+    left: 2px;
+    position: absolute;
+    top: 10px;
+    width: 160px;
+}
+
+.element-create-complaint .line-158 {
+    background-color: var(--gray-4);
+    height: 216px;
+    margin-bottom: -107.5px;
+    margin-top: -36.5px;
+    position: relative;
+    transform: rotate(90deg);
+    width: 1px;
+}
+
+.element-create-complaint .frame-865 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    position: absolute;
+    top: 102px;
+}
+
+.element-create-complaint .group-515 {
+    height: 52px;
+    position: relative;
+    width: 265px;
+}
+
+.element-create-complaint .group-516 {
+    height: 52px;
+    left: 20px;
+    position: relative;
+    width: 245px;
+}
+
+.element-create-complaint .frame-866 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 14px;
+    position: relative;
+    top: 14px;
+}
+
+.element-create-complaint .frame-867 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+}
+
+.element-create-complaint .bold-settings-fine-35 {
+    height: 20px;
+    position: relative;
+    width: 20px;
+}
+
+.element-create-complaint .text-273 {
+    color: var(--gray-1);
+    font-family: var(--h10-medium-font-family);
+    font-size: var(--h10-medium-font-size);
+    font-style: var(--h10-medium-font-style);
+    font-weight: var(--h10-medium-font-weight);
+    letter-spacing: var(--h10-medium-letter-spacing);
+    line-height: var(--h10-medium-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: 151px;
+}
+
+.element-create-complaint .icon-instance-node-104 {
+    height: 22px !important;
+    position: relative !important;
+    width: 22px !important;
+}
+
+.element-create-complaint .text-274 {
+    color: var(--gray-1);
+    font-family: var(--h10-medium-font-family);
+    font-size: var(--h10-medium-font-size);
+    font-style: var(--h10-medium-font-style);
+    font-weight: var(--h10-medium-font-weight);
+    letter-spacing: var(--h10-medium-letter-spacing);
+    line-height: var(--h10-medium-line-height);
+    position: relative;
+    width: 150px;
+}
+
+.element-create-complaint .group-517 {
+    display: block;
+    height: 52px;
+    position: relative;
+    width: 265px;
+}
+
+.element-create-complaint .text-275 {
+    color: var(--gray-1);
+    font-family: var(--h10-medium-font-family);
+    font-size: var(--h10-medium-font-size);
+    font-style: var(--h10-medium-font-style);
+    font-weight: var(--h10-medium-font-weight);
+    letter-spacing: var(--h10-medium-letter-spacing);
+    line-height: var(--h10-medium-line-height);
+    position: relative;
+    width: 152px;
+}
+
+.element-create-complaint .text-276 {
+    color: var(--gray-1);
+    font-family: var(--h10-medium-font-family);
+    font-size: var(--h10-medium-font-size);
+    font-style: var(--h10-medium-font-style);
+    font-weight: var(--h10-medium-font-weight);
+    letter-spacing: var(--h10-medium-letter-spacing);
+    line-height: var(--h10-medium-line-height);
+    position: relative;
+    width: 149px;
+}
+
+.element-create-complaint .group-518 {
+    height: 134px;
+    position: relative;
+    width: 265px;
+}
+
+.element-create-complaint .group-519 {
+    display: block;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 265px;
+}
+
+.element-create-complaint .hide-bg-copy-37 {
+    background: linear-gradient(180deg, rgb(254, 81, 46) 0%, rgb(240, 150, 25) 100%);
+    border-radius: 0px 5px 5px 0px;
+    height: 54px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 9px;
+}
+
+.element-create-complaint .group-520 {
+    height: 52px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    width: 245px;
+}
+
+.element-create-complaint .overlap-group-46 {
+    background: linear-gradient(180deg, rgb(254, 81, 46) 0%, rgb(240, 150, 25) 100%);
+    border-radius: 10px;
+    height: 54px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 247px;
+}
+
+.element-create-complaint .frame-868 {
+    align-items: center;
+    background: linear-gradient(180deg, rgb(254, 81, 46) 0%, rgb(240, 150, 25) 100%);
+    display: inline-flex;
+    gap: 12px;
+    left: 15px;
+    position: relative;
+    top: 15px;
+}
+
+.element-create-complaint .text-277 {
+    color: var(--white);
+    font-family: var(--h10-medium-font-family);
+    font-size: var(--h10-medium-font-size);
+    font-style: var(--h10-medium-font-style);
+    font-weight: var(--h10-medium-font-weight);
+    letter-spacing: var(--h10-medium-letter-spacing);
+    line-height: var(--h10-medium-line-height);
+    position: relative;
+    width: 149px;
+}
+
+.element-create-complaint .group-521 {
+    height: 62px;
+    left: 44px;
+    position: absolute;
+    top: 72px;
+    width: 152px;
+}
+
+.element-create-complaint .overlap-74 {
+    height: 62px;
+    position: relative;
+}
+
+.element-create-complaint .rectangle-167 {
+    background-color: var(--gray-4);
+    border-radius: 10px;
+    height: 62px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2px;
+}
+
+.element-create-complaint .frame-869 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.element-create-complaint .frame-870 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+}
+
+.element-create-complaint .rectangle-168 {
+    background-color: #202224;
+    border-radius: 10px;
+    height: 26px;
+    position: relative;
+    width: 2px;
+}
+
+.element-create-complaint .text-278 {
+    color: #202224;
+    font-family: var(--h7-medium-font-family);
+    font-size: var(--h7-medium-font-size);
+    font-style: var(--h7-medium-font-style);
+    font-weight: var(--h7-medium-font-weight);
+    letter-spacing: var(--h7-medium-letter-spacing);
+    line-height: var(--h7-medium-line-height);
+    position: relative;
+    width: 130px;
+}
+
+.element-create-complaint .rectangle-169 {
+    background-color: var(--gray-4);
+    border-radius: 10px;
+    height: 26px;
+    position: relative;
+    width: 2px;
+}
+
+.element-create-complaint .text-279 {
+    color: var(--gray-1);
+    font-family: var(--h7-regular-font-family);
+    font-size: var(--h7-regular-font-size);
+    font-style: var(--h7-regular-font-style);
+    font-weight: var(--h7-regular-font-weight);
+    letter-spacing: var(--h7-regular-letter-spacing);
+    line-height: var(--h7-regular-line-height);
+    position: relative;
+    width: 130px;
+}
+
+.element-create-complaint .component-319 {
+    left: 280px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.element-create-complaint .vuesax-bold-36 {
+    height: 26px !important;
+    position: relative !important;
+    width: 26px !important;
+}
+
+.element-create-complaint .component-320 {
+    left: 1799px !important;
+    position: absolute !important;
+    top: 987px !important;
+}
+
+.element-create-complaint .frame-871 {
+    background-color: var(--white);
+    border-radius: 15px;
+    height: 904px;
+    left: 310px;
+    overflow: hidden;
+    position: absolute;
+    top: 130px;
+    width: 1580px;
+}
+
+.element-create-complaint .group-522 {
+    height: 714px;
+    left: 1570px;
+    position: absolute;
+    top: 152px;
+    width: 5px;
+}
+
+.element-create-complaint .group-523 {
+    background-color: var(--gray-4);
+    border-radius: 10px;
+    height: 714px;
+}
+
+.element-create-complaint .rectangle-170 {
+    background-color: #202224;
+    border-radius: 10px;
+    height: 170px;
+    width: 5px;
+}
+
+.element-create-complaint .create-complaint-37 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 91px !important;
+}
+
+.element-create-complaint .create-complaint-38 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 152px !important;
+}
+
+.element-create-complaint .create-complaint-39 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 223px !important;
+}
+
+.element-create-complaint .create-complaint-40 {
+    width: 70px !important;
+}
+
+.element-create-complaint .create-complaint-41 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 294px !important;
+}
+
+.element-create-complaint .create-complaint-42 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 365px !important;
+}
+
+.element-create-complaint .create-complaint-43 {
+    width: 71px !important;
+}
+
+.element-create-complaint .create-complaint-44 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 436px !important;
+}
+
+.element-create-complaint .create-complaint-45 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 507px !important;
+}
+
+.element-create-complaint .create-complaint-46 {
+    width: 73px !important;
+}
+
+.element-create-complaint .create-complaint-47 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 578px !important;
+}
+
+.element-create-complaint .create-complaint-48 {
+    width: 74px !important;
+}
+
+.element-create-complaint .create-complaint-49 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 649px !important;
+}
+
+.element-create-complaint .create-complaint-50 {
+    width: 75px !important;
+}
+
+.element-create-complaint .create-complaint-51 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 720px !important;
+}
+
+.element-create-complaint .create-complaint-52 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 791px !important;
+}
+
+.element-create-complaint .overlap-75 {
+    height: 129px;
+    left: 20px;
+    position: absolute;
+    top: 862px;
+    width: 1540px;
+}
+
+.element-create-complaint .create-complaint-53 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.element-create-complaint .icon-instance-node-105 {
+    height: 20px !important;
+    position: relative !important;
+    width: 24px !important;
+}
+
+.element-create-complaint .create-complaint-54 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 60px !important;
+}
+
+.element-create-complaint .frame-872 {
+    align-items: center;
+    display: inline-flex;
+    gap: 1164px;
+    justify-content: center;
+    left: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.element-create-complaint .text-wrapper-278 {
+    color: #202224;
+    font-family: var(--h4-semi-bold-font-family);
+    font-size: var(--h4-semi-bold-font-size);
+    font-style: var(--h4-semi-bold-font-style);
+    font-weight: var(--h4-semi-bold-font-weight);
+    letter-spacing: var(--h4-semi-bold-letter-spacing);
+    line-height: var(--h4-semi-bold-line-height);
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .component-321 {
+    flex: 0 0 auto !important;
+}
+
+.element-create-complaint .rectangle-171 {
+    background-color: #202224;
+    height: 1064px;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.element-create-complaint .frame-873 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-radius: 15px;
+    display: inline-flex;
+    gap: 10px;
+    left: 755px;
+    padding: 20px;
+    position: absolute;
+    top: 172px;
+}
+
+.element-create-complaint .frame-874 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+}
+
+.element-create-complaint .frame-875 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+}
+
+.element-create-complaint .text-wrapper-279 {
+    color: #202224;
+    font-family: var(--h4-semi-bold-font-family);
+    font-size: var(--h4-semi-bold-font-size);
+    font-style: var(--h4-semi-bold-font-style);
+    font-weight: var(--h4-semi-bold-font-weight);
+    letter-spacing: var(--h4-semi-bold-letter-spacing);
+    line-height: var(--h4-semi-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .line-159 {
+    height: 1px;
+    object-fit: cover;
+    position: relative;
+    width: 370px;
+}
+
+.element-create-complaint .frame-876 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 2px;
+    position: relative;
+}
+
+.element-create-complaint .input-field-54 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 96px;
+    position: relative;
+    width: 370px;
+}
+
+.element-create-complaint .label-71 {
+    align-self: stretch;
+    color: transparent;
+    font-family: var(--h7-medium-font-family);
+    font-size: var(--h7-medium-font-size);
+    font-style: var(--h7-medium-font-style);
+    font-weight: var(--h7-medium-font-weight);
+    letter-spacing: var(--h7-medium-letter-spacing);
+    line-height: var(--h7-medium-line-height);
+    margin-top: -1px;
+    position: relative;
+}
+
+.element-create-complaint .text-wrapper-280 {
+    color: #202224;
+    font-family: var(--h7-medium-font-family);
+    font-size: var(--h7-medium-font-size);
+    font-style: var(--h7-medium-font-style);
+    font-weight: var(--h7-medium-font-weight);
+    letter-spacing: var(--h7-medium-letter-spacing);
+    line-height: var(--h7-medium-line-height);
+}
+
+.element-create-complaint .text-wrapper-281 {
+    color: #e74c3c;
+    font-family: var(--h7-medium-font-family);
+    font-size: var(--h7-medium-font-size);
+    font-style: var(--h7-medium-font-style);
+    font-weight: var(--h7-medium-font-weight);
+    letter-spacing: var(--h7-medium-letter-spacing);
+    line-height: var(--h7-medium-line-height);
+}
+
+.element-create-complaint .component-322 {
+    align-self: stretch !important;
+    height: 65px !important;
+    width: 100% !important;
+}
+
+.element-create-complaint .input-field-55 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 5px;
+    position: relative;
+    width: 370px;
+}
+
+.element-create-complaint .component-324 {
+    align-self: stretch !important;
+    flex: 0 0 auto !important;
+    width: 100% !important;
+}
+
+.element-create-complaint .component-325 {
+    margin-top: -1px !important;
+}
+
+.element-create-complaint .frame-877 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    position: relative;
+    top: 10px;
+}
+
+.element-create-complaint .input-field-56 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    height: 96px;
+    position: relative;
+    width: 175px;
+}
+
+.element-create-complaint .component-326 {
+    align-self: stretch !important;
+    width: 100% !important;
+}
+
+.element-create-complaint .component-327 {
+    flex: unset !important;
+    width: fit-content !important;
+}
+
+.element-create-complaint .component-328 {
+    width: fit-content !important;
+}
+
+.element-create-complaint .frame-878 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    position: relative;
+}
+
+.element-create-complaint .div-8 {
+    color: transparent;
+    font-family: var(--h7-medium-font-family);
+    font-size: var(--h7-medium-font-size);
+    font-style: var(--h7-medium-font-style);
+    font-weight: var(--h7-medium-font-weight);
+    letter-spacing: var(--h7-medium-letter-spacing);
+    line-height: var(--h7-medium-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .frame-879 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 15px;
+    position: relative;
+}
+
+.element-create-complaint .frame-880 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--gray-3);
+    border-radius: 10px;
+    display: flex;
+    gap: 10px;
+    padding: 10px 15px;
+    position: relative;
+    width: 113px;
+}
+
+.element-create-complaint .frame-881 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 5px;
+    position: relative;
+}
+
+.element-create-complaint .text-wrapper-282 {
+    color: var(--gray-2);
+    font-family: var(--h7-regular-font-family);
+    font-size: var(--h7-regular-font-size);
+    font-style: var(--h7-regular-font-style);
+    font-weight: var(--h7-regular-font-weight);
+    letter-spacing: var(--h7-regular-letter-spacing);
+    line-height: var(--h7-regular-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.element-create-complaint .frame-882 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 5px;
+    margin-right: -5px;
+    position: relative;
+}
+
+.element-create-complaint .frame-883 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 5px;
+    position: relative;
+}
+
+.element-create-complaint .frame-884 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 20px;
+    justify-content: center;
+    position: relative;
+}
+
+.element-create-complaint .component-329 {
+    align-self: stretch !important;
+    display: flex !important;
+    padding: 10px 55px !important;
+    width: 175px !important;
+}
+
+.element-create-complaint .component-330 {
+    font-family: var(--h6-medium-font-family) !important;
+    font-size: var(--h6-medium-font-size) !important;
+    font-style: var(--h6-medium-font-style) !important;
+    font-weight: var(--h6-medium-font-weight) !important;
+    letter-spacing: var(--h6-medium-letter-spacing) !important;
+    line-height: var(--h6-medium-line-height) !important;
+    margin-top: unset !important;
+}
+
+.element-create-complaint .component-331 {
+    align-self: stretch !important;
+    display: flex !important;
+    padding: 12px 53px !important;
+    width: 175px !important;
+}
